@@ -5,3 +5,4 @@
 ## Participants 
 *  Charlotte Visser
 *  Sydney Story
+*  Griffin Fleischaker
